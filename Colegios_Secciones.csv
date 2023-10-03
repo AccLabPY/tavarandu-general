@@ -1,0 +1,21 @@
+Nombre de la institución,Sector,Zona,Tipo,Año,Sección,Turno,Número de varones matriculados,Número de mujeres matriculadas,Promedio de edad,Incluido en la aleatorización
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Primero,A,Tarde,8,12,15.70,SI
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Primero,B,Tarde,11,15,15.77,SI
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Segundo,A,Tarde,7,8,16.53,SI
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Segundo,B,Mañana,10,11,16.48,SI
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Tercero,A,Tarde,5,10,17.87,NO
+COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Tercero,B,Tarde,14,12,17.31,NO
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Primero,Informática,Mañana-Tarde,13,15,15.11,SI
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Primero,Contabilidad,Mañana-Tarde,11,15,16.00,SI
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Segundo,Informática,Mañana,13,11,16.21,SI
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Segundo,Contabilidad,Mañana-Tarde,6,13,16.21,SI
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Tercero,Informática,Mañana,7,10,17.41,NO
+COLEGIO NACIONAL PADRE RICARDO MUSCH,Público,Urbana,Técnico,Tercero,Contabilidad,Mañana-Tarde,1,11,17.66,NO
+COLEGIO NACIONAL PUERTO TRIUNFO,Público,Rural,Científico,Primero,A,Mañana,8,15,15.43,SI
+COLEGIO NACIONAL PUERTO TRIUNFO,Público,Rural,Científico,Segundo,A,Mañana,15,11,16.27,SI
+COLEGIO NACIONAL PUERTO TRIUNFO,Público,Rural,Científico,Tercero,A,Mañana,8,17,17.68,NO
+COLEGIO NACIONAL NATALIO KM. 23,Público,Rural,Científico,Primero,A,Mañana,14,6,15.90,SI
+COLEGIO NACIONAL NATALIO KM. 23,Público,Rural,Científico,Segundo,A,Mañana,15,12,17.66,SI
+COLEGIO NACIONAL NATALIO KM. 23,Público,Rural,Científico,Tercero,A,Mañana,20,13,17.54,NO
+,,,,,,,,,,
+,,,,,,Total:,,,,
