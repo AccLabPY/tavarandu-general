@@ -1,4 +1,4 @@
-Nombre de la institución,Sector,Zona,Tipo,Año,Sección,Turno,Número de varones matriculados,Número de mujeres matriculadas,Promedio de edad,Incluido en la aleatorización
+Institución,Sector,Zona,Tipo,Año,Sección,Turno,Varones matriculados,Mujeres matriculadas,Promedio de edad,incluido
 COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Primero,A,Tarde,8,12,15.70,SI
 COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Primero,B,Tarde,11,15,15.77,SI
 COLEGIO NACIONAL DOMINGO ROBLEDO,Público,Urbana,Científico,Segundo,A,Tarde,7,8,16.53,SI
