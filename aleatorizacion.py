@@ -51,7 +51,7 @@ def animate():
 
 
 # Especificar las columnas de estrato, acá se puede agregar más estratos en el futuro con más casos
-strata_columns = ['Institución','Año']
+strata_columns = ['Sección','Institución']
 
 # Se elige un número de sorteos a realizar en público
 num_sorteos = 10
